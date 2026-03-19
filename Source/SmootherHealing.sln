@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{87D54F9F-1838-46CF-861C-E52623693560}") = "SmootherHealing", "SmootherHealing.csproj", "{756E1A4D-2DBF-48FF-931D-23B6E1D6B389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756E1A4D-2DBF-48FF-931D-23B6E1D6B389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756E1A4D-2DBF-48FF-931D-23B6E1D6B389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756E1A4D-2DBF-48FF-931D-23B6E1D6B389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756E1A4D-2DBF-48FF-931D-23B6E1D6B389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66e2f772-bff8-470b-826c-54b746536ed7}
+	EndGlobalSection
+EndGlobal
